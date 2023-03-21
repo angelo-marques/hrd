@@ -8,12 +8,12 @@
 
 /* Version 1.1.2 (2015-10-22) */
 #header .logo {
-  background-size: auto 66px;
+  background-size: auto 50px;
 }
 
 #header .logo img {
   width: auto;
-  height: 66px;
+  height: 50px;
 }
 
 #header .logo span {
